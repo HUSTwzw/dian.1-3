@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\vs2022 .program\\dian\\Project_dian.1-3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A335B75-8BD9-4D96-B8FE-238376072555}|Project_dian.1-3\\Project_dian.1-3.vcxproj|F:\\vs2022 .program\\dian\\Project_dian.1-3\\Project_dian.1-3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A335B75-8BD9-4D96-B8FE-238376072555}|Project_dian.1-3\\Project_dian.1-3.vcxproj|solutionrelative:Project_dian.1-3\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "F:\\vs2022 .program\\dian\\Project_dian.1-3\\Project_dian.1-3\\main.c",
+              "RelativeDocumentMoniker": "Project_dian.1-3\\main.c",
+              "ToolTip": "F:\\vs2022 .program\\dian\\Project_dian.1-3\\Project_dian.1-3\\main.c",
+              "RelativeToolTip": "Project_dian.1-3\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-20T09:29:52.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
